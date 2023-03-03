@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(149, 219, 237);
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 30px;
+
+}
+
+form{
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 30px;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.box{
+    margin: 10px;
+}
